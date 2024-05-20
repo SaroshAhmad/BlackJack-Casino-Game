@@ -1,21 +1,11 @@
-# co6f14249b468fa5fdd02f1f5
+# Black Jack Game
 
-Quick start:
+# Web-Based Blackjack Game
 
-```
-$ npm install
-$ npm start
-````
+This project is a simple, web-based Blackjack game developed using HTML, CSS, and JavaScript. The game leverages fundamental programming concepts such as arrays, objects, loops, if-else statements, logical operators, booleans, and comparison operators.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Description
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+In this Blackjack game, the player starts with three random cards, each ranging from 1 to 13. The goal is to achieve a sum of 21 with any combination of these cards. If the sum of any two cards equals 21, the player wins instantly. If the sum is less than 21, the player has the option to draw the third card to try their luck. The intuitive interface and straightforward rules make this a fun and engaging project for practicing basic programming skills and game logic.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Enjoy testing your luck and strategy with this classic card game implemented for the web!
